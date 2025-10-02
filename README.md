@@ -18,20 +18,6 @@ A streamlined collection of 5 specialized AI agents designed to transform vague 
 
 ---
 
-## 📥 Installation
-
-1. **Download the agents:**
-   ```bash
-   # Copy all 5 agent files to your Claude Code agents directory
-   cp -r agents/* ~/.claude/agents/
-   ```
-
-2. **Restart Claude Code** to load the agents.
-
-3. **Start building** - just describe what you want!
-
----
-
 ## 🚀 Quick Start
 
 Simply tell the **Project Orchestrator** what you want:
